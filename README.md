@@ -17,12 +17,14 @@
 
 ```yaml
 name: Tran Cam Huy
+education: Undergraduate @ University of Science - VNUHCM
 location: Ho Chi Minh City, Vietnam 🇻🇳
 current_focus: Data Visualization, Machine Learning & AI Agents
 passions: [Data Science, Building Intelligent Chatbots, Open Source]
 fun_fact: Turning complex data into clear stories 📊
 ```
 
+- 🎓 **Education**: Undergraduate at **University of Science - VNUHCM** (HCMUS)
 - 🔭 Currently building projects in **AI Agents**, **Data Visualization**, and **Intelligent Chatbots**
 - 🌱 Exploring deep learning frameworks, NLP, and modern web integrations
 - 💬 Ask me about **Python, Data Analysis, Visualization, and Chatbot Development**
@@ -52,12 +54,12 @@ fun_fact: Turning complex data into clear stories 📊
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HuyTran28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Huy's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyTran28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=HuyTran28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Huy's GitHub Stats" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HuyTran28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyTran28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HuyTran28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
